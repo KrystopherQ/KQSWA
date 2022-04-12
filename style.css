@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(255, 193, 7);
+    color: white;
+    font-family: 'Mulish', sans-serif;
+    width: 100%;
+    padding: 15px;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+.header-style {
+    font-size: 50px;
+    color: #ffffff;
+    font-family: 'Mulish', sans-serif;
+    text-align: center;
+}
+
+.card {
+    width: 100%;
+}
+
+.forecast {
+    margin: 15px;
+}
+
+h3 {
+    float: left;
+    color: rgb(0, 4, 255);
+}
