@@ -4,12 +4,12 @@ The KQSWA (pronunciation [kwus-wa]) A.K.A. the Krystopher Quintero Superior Weat
 
 ![Website-screen-shot](assets/website.png)
 ## Table of Contents
- * [Seaching Cities](#Searching Cities)
+ * [Seaching](#Searching)
  * [Questions](#questions)
  * [License](#license)
             
 
-## **Searching Cities**
+## Searching
 When searching for cities select the textbox to the left enter a city you would like to see the current weather/forecast for then select the magnify glass image to search. After each city searched a list will generate below making them accessible to select again and see the previous searched weather.
 
 ![save](assets/search.png)
